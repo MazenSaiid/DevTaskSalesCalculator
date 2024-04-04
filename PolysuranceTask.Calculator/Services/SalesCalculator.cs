@@ -42,15 +42,30 @@ namespace PolysuranceTask.Calculator.Services
 
                 if(!string.IsNullOrEmpty(order.Discount))
                 {
-                    var discount = discounts.FirstOrDefault(x=>x.Key == order.Discount);
-
-                    if (discount is not null)
+                    var discountValues = order.Discount.Split(',');
+                    double orderDiscountAmount = 0;
+                    foreach (var discountKey in discountValues)
                     {
-                        double discountAmount = orderTotal * discount.Value;
-                        totalAfterDiscount += orderTotal - discountAmount;
-                        totalDiscountAmount += discountAmount;
-                        discountCount++;
+                        var discount = discounts.FirstOrDefault(x => x.Key == discountKey);
+
+                        if(discount is not null)
+                        {
+                            if (discount.Stacks)
+                            {
+                                orderDiscountAmount += orderTotal * discount.Value;
+                            }
+                            else
+                            {
+                                orderDiscountAmount = Math.Max(orderDiscountAmount,orderTotal * discount.Value);
+                            }
+                        }
                     }
+
+                    double discountedOrderTotal = orderTotal - orderDiscountAmount;
+                    totalAfterDiscount += discountedOrderTotal;
+                    totalDiscountAmount += orderDiscountAmount;
+                    discountCount++;
+                    
                 }
                 else
                 {

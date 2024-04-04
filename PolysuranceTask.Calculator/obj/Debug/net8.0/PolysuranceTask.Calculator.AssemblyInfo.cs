@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PolysuranceTask.Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da5672623b3ddb02f842137b864e5c0a362dec2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PolysuranceTask.Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PolysuranceTask.Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

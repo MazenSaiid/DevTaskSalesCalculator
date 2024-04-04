@@ -15,3 +15,4 @@ E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTa
 E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.pdb
 E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.genruntimeconfig.cache
 E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\ref\PolysuranceTask.Calculator.dll
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.sourcelink.json
