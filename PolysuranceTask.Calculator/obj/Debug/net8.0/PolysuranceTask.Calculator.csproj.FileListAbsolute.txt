@@ -1,0 +1,17 @@
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\bin\Debug\net8.0\PolysuranceTask.Calculator.exe
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\bin\Debug\net8.0\PolysuranceTask.Calculator.deps.json
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\bin\Debug\net8.0\PolysuranceTask.Calculator.runtimeconfig.json
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\bin\Debug\net8.0\PolysuranceTask.Calculator.dll
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\bin\Debug\net8.0\PolysuranceTask.Calculator.pdb
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.csproj.AssemblyReference.cache
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.AssemblyInfoInputs.cache
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.AssemblyInfo.cs
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.csproj.CoreCompileInputs.cache
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.csproj.CopyComplete
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.dll
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\refint\PolysuranceTask.Calculator.dll
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.pdb
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\PolysuranceTask.Calculator.genruntimeconfig.cache
+E:\Dev Code\My Projects\PolysuranceTask\PolysuranceTask.Calculator\PolysuranceTask.Calculator\obj\Debug\net8.0\ref\PolysuranceTask.Calculator.dll
